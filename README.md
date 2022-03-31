@@ -11,7 +11,7 @@ UNCC ECE 3157 (Junior Design) Course Project
   - Dev-C++ IDE
 
 ## Author
-Khoa Do, Derik Munoz. All Rights Reserved.
+Khoa Do, Derik Munoz, Antonio Tanzella, Ahmed Albouri. All Rights Reserved.
 
 ## Reference
 N/A
