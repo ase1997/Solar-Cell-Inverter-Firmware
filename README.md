@@ -3,7 +3,7 @@
 ## Type: Academic Group Project
 
 ## Project Description
-UNCC ECE 3157 (Junior Design) Course Project
+UNCC ECGR 3157 (Junior Design) Course Project
   - Design and debug a firmware for a solar cell's inverter (PWM) 
   - Deisgn and develop PCB board
 
