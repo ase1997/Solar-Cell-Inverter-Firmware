@@ -10,7 +10,7 @@ UNCC ECGR 3157 (Junior Design) Course Project
 ## Dependencies:
   - Dev-C++ IDE
 
-## Author
+## Authors
 Khoa Do. Derik Munoz. Antonio Tanzella. Ahmed Albouri. All Rights Reserved.
 
 ## Reference
