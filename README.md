@@ -7,7 +7,7 @@ UNCC ECGR 3157 (Junior Design) Course Project
   - Design and debug a firmware for a solar cell's inverter (PWM) 
   - Deisgn and develop PCB board
 
-## Dependencies:
+## Dependencies
   - Dev-C++ IDE
 
 ## Authors
